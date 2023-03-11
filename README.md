@@ -266,3 +266,4 @@ end
 * [APL.jl](https://github.com/shashi/APL.jl): A small implementation of [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) in julia.
 * [GitCommand.jl](https://github.com/bcbi/GitCommand.jl): uses ReplMaker.jl to provide a Git REPL mode
 * [RemoteREPL.jl](https://github.com/c42f/RemoteREPL.jl): Remotely share a REPL session with another user.
+* [ReplGPT.jl](https://github.com/ThatcherC/ReplGPT.jl): A ChatGPT REPL mode
